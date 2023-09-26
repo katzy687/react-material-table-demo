@@ -1,6 +1,6 @@
 # React Material Table Demo
-Demo exploring the React Material Library. Built on top of tanstack-table v8 and mui v5.
-https://www.material-react-table.com/
+Demo exploring the [React Material Library](https://www.material-react-table.com/). Built on top of tanstack-table v8 and mui v5.
+
 
 
 ## Vite Setup Stuff
